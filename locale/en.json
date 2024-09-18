@@ -1,0 +1,19 @@
+{
+    "title": "Image Converter",
+    "select_images": "Select Images",
+    "convert": "Convert",
+    "no_file_selected": "No file selected",
+    "files_selected": "files selected",
+    "success": "{} image(s) converted and saved to {}",
+    "error": "Failed to convert image: {}",
+    "settings": "Settings",
+    "default_save_location": "Default Save Location",
+    "language": "Language",
+    "save_settings": "Save Settings",
+    "settings_saved": "Settings saved successfully",
+    "warning": "Please select an image file first.",
+    "select_folder": "Select Folder",
+    "folder_selected": "Folder Selected",
+    "converted_folder": "converted",
+    "always_create_folder": "Always create folder for converted images"
+}

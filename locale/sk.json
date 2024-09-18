@@ -1,0 +1,19 @@
+{
+    "title": "Konvertovač obrázkov",
+    "select_images": "Vyber fotky",
+    "convert": "Konvertuj",
+    "no_file_selected": "Žiaden súbor vybratý",
+    "files_selected": "obrázky vybraté",
+    "success": "Konvertovaných a uložených {} obrázkov",
+    "error": "Konvertovanie zlyhalo: {}",
+    "settings": "Nastavenia",
+    "default_save_location": "Predvolená poloha uloženia",
+    "language": "Jazyk",
+    "save_settings": "Uložiť nastavenia",
+    "settings_saved": "Nastavenia sa uložili",
+    "warning": "Prosím najprv vyberte obrázok.",
+    "select_folder": "Vyberte súbor",
+    "folder_selected": "Súbor vybraný",
+    "converted_folder": "konvertovane",
+    "always_create_folder": "Vždy vytvoriť súbor pre konvertované"
+}

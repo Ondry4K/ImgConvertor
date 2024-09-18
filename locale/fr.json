@@ -1,0 +1,18 @@
+{
+    "title": "Convertisseur d'images",
+    "select_images": "Sélectionnez des images",
+    "convert": "Convertir",
+    "no_file_selected": "Aucun fichier sélectionné",
+    "files_selected": "fichiers sélectionnés",
+    "success": "{} image(s) convertie(s) et enregistrée(s) dans {}",
+    "error": "Échec de la conversion de l'image: {}",
+    "settings": "Paramètres",
+    "default_save_location": "Emplacement de sauvegarde par défaut",
+    "language": "Langue",
+    "save_settings": "Enregistrer les paramètres",
+    "settings_saved": "Paramètres enregistrés avec succès",
+    "warning": "Veuillez d'abord sélectionner un fichier image.",
+    "select_folder": "Sélectionner un dossier",
+    "converted_folder": "converti",
+    "always_create_folder": "Toujours créer un dossier pour les images converties"
+}
